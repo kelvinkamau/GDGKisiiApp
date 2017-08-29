@@ -10,7 +10,10 @@ import android.view.MenuItem;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    /*Check on status bar color
+    * Check on recyclerview
+    * Always refer to github.com/kelvinkamau/iosched
+    * Change splash screen background colour*/
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
