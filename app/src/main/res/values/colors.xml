@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="title">#ffffff</color>
+
+
+    <color name="home">#C71585</color>
+    <color name="dashboard">#8A2BE2</color>
+    <color name="feed">#8B008B</color>
+    <color name="info">#DC143C</color>
+
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSelected">#c8c8c8</color>
+</resources>
