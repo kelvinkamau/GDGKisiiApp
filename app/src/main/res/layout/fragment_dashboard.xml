@@ -40,7 +40,7 @@
             app:tabIndicatorColor="@color/textPrimary"
             app:tabMode="fixed"
             app:tabSelectedTextColor="#ffffff"
-            app:tabTextColor="@color/textSelected">
+            app:tabTextColor="#d5b8ef">
 
             <android.support.design.widget.TabItem
                 android:layout_height="wrap_content"
