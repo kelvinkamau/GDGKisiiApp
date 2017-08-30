@@ -11,6 +11,6 @@
     <color name="feed">#8B008B</color>
     <color name="info">#DC143C</color>
 
-    <color name="textPrimary">#FFFFFF</color>
-    <color name="textSelected">#c8c8c8</color>
+    <color name="textPrimary">#c8c8c8</color>
+    <color name="textSelected">#FFFFFF</color>
 </resources>

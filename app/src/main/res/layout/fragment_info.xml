@@ -38,8 +38,8 @@
             app:tabGravity="fill"
             app:tabIndicatorColor="@color/textPrimary"
             app:tabMode="fixed"
-            app:tabSelectedTextColor="@color/textPrimary"
-            app:tabTextColor="#ffffff">
+            app:tabSelectedTextColor="#ffffff"
+            app:tabTextColor="#f7bbc7">
 
             <android.support.design.widget.TabItem
                 android:layout_height="wrap_content"
