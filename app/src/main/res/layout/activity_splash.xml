@@ -32,7 +32,7 @@
     style="@style/AVLoadingIndicatorView"
     android:visibility="visible"
     app:indicatorName="BallClipRotatePulseIndicator"
-    app:indicatorColor="@color/title"
+    app:indicatorColor="@color/info"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginLeft="8dp"
@@ -41,5 +41,6 @@
         android:layout_marginBottom="8dp"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="8dp"
-        app:layout_constraintVertical_bias="0.723" />
+        app:layout_constraintVertical_bias="0.862"
+        app:layout_constraintHorizontal_bias="0.501" />
 </android.support.constraint.ConstraintLayout>
