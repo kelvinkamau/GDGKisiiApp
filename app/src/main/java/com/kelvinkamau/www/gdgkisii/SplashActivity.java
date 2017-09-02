@@ -1,14 +1,18 @@
 package com.kelvinkamau.www.gdgkisii;
 
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.TextView;
+
 import com.wang.avi.AVLoadingIndicatorView;
 
 public class SplashActivity extends AppCompatActivity {
-    public static int SPLASH_TIMER = 8000;
+    public static int SPLASH_TIMER = 5000;
     private AVLoadingIndicatorView avi;
+    private TextView textView;
 
 
     @Override
@@ -20,6 +24,10 @@ public class SplashActivity extends AppCompatActivity {
         avi= (AVLoadingIndicatorView) findViewById(R.id.avi);
         avi.setIndicator(indicator);
         avi.smoothToShow();
+
+        Typeface proReg = Typeface.createFromAsset(getAssets(), "fonts/ProductSans.ttf");
+        textView =(TextView)findViewById(R.id.textView);
+        textView.setTypeface(proReg);
 
 
         new Handler().postDelayed(new Runnable() {

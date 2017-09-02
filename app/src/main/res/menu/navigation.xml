@@ -4,7 +4,8 @@
     <item
         android:id="@+id/home"
         android:icon="@drawable/mygdg"
-        android:title="@string/title_home"/>
+        android:title="@string/title_home"
+        />
 
     <item
         android:id="@+id/dashboard"
@@ -14,7 +15,7 @@
     <item
         android:id="@+id/feed"
         android:icon="@drawable/feed"
-        android:title="Feed"/>
+        android:title="@string/title_feed"/>
 
     <item
         android:id="@+id/info"
