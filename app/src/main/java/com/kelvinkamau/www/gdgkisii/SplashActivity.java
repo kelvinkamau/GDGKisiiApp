@@ -13,6 +13,7 @@ public class SplashActivity extends AppCompatActivity {
     public static int SPLASH_TIMER = 5000;
     private AVLoadingIndicatorView avi;
     private TextView textView;
+    private TextView title;
 
 
     @Override
@@ -28,6 +29,9 @@ public class SplashActivity extends AppCompatActivity {
         Typeface proReg = Typeface.createFromAsset(getAssets(), "fonts/ProductSans.ttf");
         textView =(TextView)findViewById(R.id.textView);
         textView.setTypeface(proReg);
+
+        title =(TextView)findViewById(R.id.title);
+        title.setTypeface(proReg);
 
 
         new Handler().postDelayed(new Runnable() {
