@@ -7,7 +7,6 @@
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
-        android:backgroundTint="@color/feed"
         android:layout_height="192dp"
         android:layout_width="match_parent">
 
@@ -15,8 +14,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:toolbarId="@+id/toolbar"
+            android:backgroundTint="@color/feed"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
-            app:contentScrim="?attr/colorPrimary">
+            app:contentScrim="@color/feed">
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"

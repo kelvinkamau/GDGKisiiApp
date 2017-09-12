@@ -52,7 +52,6 @@ public class Home extends Fragment {
         Typeface font = Typeface.createFromAsset(getActivity().getAssets(), "fonts/ProductSans.ttf");
         welcome.setTypeface(font);
         ((MainActivity)getActivity()).updateStatusBarColor("#C71585");
-
         return v;
     }
 
