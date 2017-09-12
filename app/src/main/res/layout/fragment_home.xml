@@ -8,13 +8,13 @@
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
         android:layout_height="192dp"
+        android:backgroundTint="@color/home"
         android:layout_width="match_parent">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:toolbarId="@+id/toolbar"
-            android:backgroundTint="@color/home"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
             app:contentScrim="@color/home">
 
@@ -33,7 +33,7 @@
                 android:layout_marginBottom="3dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginStart="20dp"
-                android:text="We are GDG Kisii"
+                android:text="@string/title_hometext"
                 android:textColor="#ffffff"
                 android:textSize="25sp" />
 

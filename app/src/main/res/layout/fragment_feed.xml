@@ -8,13 +8,13 @@
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
         android:layout_height="192dp"
+        android:backgroundTint="@color/feed"
         android:layout_width="match_parent">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:toolbarId="@+id/toolbar"
-            android:backgroundTint="@color/feed"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
             app:contentScrim="@color/feed">
 
