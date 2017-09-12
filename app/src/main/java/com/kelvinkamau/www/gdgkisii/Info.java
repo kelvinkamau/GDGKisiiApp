@@ -41,7 +41,7 @@ public class Info extends Fragment {
         if (getArguments() != null) {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
-            ((MainActivity)getActivity()).updateStatusBarColor("#DC143C");
+
         }
     }
 
@@ -52,6 +52,7 @@ public class Info extends Fragment {
         TextView welcome = (TextView) v.findViewById(R.id.info);
         Typeface font = Typeface.createFromAsset(getActivity().getAssets(), "fonts/ProductSans.ttf");
         welcome.setTypeface(font);
+        ((MainActivity)getActivity()).updateStatusBarColor("#DC143C");
         return v;
     }
 

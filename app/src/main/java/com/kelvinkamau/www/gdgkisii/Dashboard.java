@@ -52,7 +52,7 @@ public class Dashboard extends Fragment {
         if (getArguments() != null) {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
-            ((MainActivity)getActivity()).updateStatusBarColor("#8A2BE2");
+
         }
     }
 
@@ -63,6 +63,7 @@ public class Dashboard extends Fragment {
         TextView welcome = (TextView) v.findViewById(R.id.dashboard);
         Typeface font = Typeface.createFromAsset(getActivity().getAssets(), "fonts/ProductSans.ttf");
         welcome.setTypeface(font);
+        ((MainActivity)getActivity()).updateStatusBarColor("#8A2BE2");
         return v;
     }
 

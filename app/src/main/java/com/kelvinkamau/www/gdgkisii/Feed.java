@@ -39,7 +39,7 @@ public class Feed extends Fragment {
         if (getArguments() != null) {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
-            ((MainActivity)getActivity()).updateStatusBarColor("#8B008B");
+
         }
     }
 
@@ -49,8 +49,10 @@ public class Feed extends Fragment {
         View v = inflater.inflate(R.layout.fragment_feed, container, false);
         TextView welcome = (TextView) v.findViewById(R.id.feed);
         Typeface font = Typeface.createFromAsset(getActivity().getAssets(), "fonts/ProductSans.ttf");
+        ((MainActivity)getActivity()).updateStatusBarColor("#8B008B");
         welcome.setTypeface(font);
         return v;
+
     }
 
     public void onButtonPressed(Uri uri) {
