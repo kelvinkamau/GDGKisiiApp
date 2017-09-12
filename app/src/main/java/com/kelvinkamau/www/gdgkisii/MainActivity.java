@@ -14,13 +14,6 @@ import android.view.WindowManager;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    /*Check on status bar color
-    * Check on recycler view
-    * Always refer to https://github.com/kelvinkamau/iosched
-    * Change splash screen background colour*
-    * Created on 04/Sept/17
-    * Update on loading animation
-    */
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
