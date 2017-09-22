@@ -40,6 +40,7 @@ public class SplashActivity extends AppCompatActivity {
                 Intent mainIntent = new Intent(SplashActivity.this, MainActivity.class);
                 startActivity(mainIntent);
                 finish();
+                avi.smoothToHide();
             }
         } ,SPLASH_TIMER );
     }

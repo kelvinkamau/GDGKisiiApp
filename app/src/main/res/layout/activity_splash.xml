@@ -6,6 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/ic_backgroundnew"
+    app:statusBarBackground="@null"
+    android:fitsSystemWindows="true"
     tools:context="com.kelvinkamau.www.gdgkisii.SplashActivity">
 
 
