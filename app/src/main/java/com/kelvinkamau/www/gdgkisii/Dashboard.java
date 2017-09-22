@@ -12,13 +12,8 @@ import android.widget.TextView;
 
 
 /**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link Dashboard.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link Dashboard#newInstance} factory method to
- * create an instance of this fragment.
- */
+*@version 1.0.0
+ **/
 public class Dashboard extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER

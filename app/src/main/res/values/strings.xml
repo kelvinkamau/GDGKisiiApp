@@ -11,6 +11,22 @@
     <string name="title_intro">Welcome To GDG Kisii</string>
     <string name="title_hometext">We are GDG Kisii</string>
     <string name="title_splash">Learn ▪ Collaborate ▪ Share</string>
+    <string name="what_title">What is a GDG? </string>
+    <string name="what_desc">Google is known all around the world.
+        Everyone is Googling, checking on Maps and communicating on Gmail.
+        For simple users, they are services that work for them, but not for us.
+        Developers see much more: APIs, Scalability issues, complex technology stacks and that is what GDG is about.
+        Basically, a Google Developer Group (GDG) is a community of tech enthusiasts, developers, designers and creators
+        who are interested in learning more about Google developer technology and tools. GDGs are focused on developers and
+        technical content.</string>
+    <string name="what2_title">What is GDG Kisii?</string>
+    <string name="what2_desc">GDG Kisii is an active developer ecosystem comprising of self-motivated
+        tech enthusiasts, developers and creators. If you would like to dive deeper into Google developer
+        technologies; everything from Android, Firebase, Chrome, App Engine, HTML5 to product APIs like the
+        YouTube API, Maps API and Chart Tools then this is the right place to be. Are you stuck, worried about
+        whether to use web apps or mobile apps, tabs or double spaces, material design or flat design, we discuss code,
+        best practices, the pros and cons and whatever else goes into implementing state of the art applications using Google
+        Developer technology.</string>
 
 
 </resources>
