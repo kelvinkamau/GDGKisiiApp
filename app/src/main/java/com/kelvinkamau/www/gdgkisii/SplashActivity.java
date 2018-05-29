@@ -10,7 +10,7 @@ import android.widget.TextView;
 import com.wang.avi.AVLoadingIndicatorView;
 
 public class SplashActivity extends AppCompatActivity {
-    public static int SPLASH_TIMER = 5000;
+    public static int SPLASH_TIMER = 1000;
     private AVLoadingIndicatorView avi;
     private TextView textView;
     private TextView title;
