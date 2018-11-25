@@ -11,16 +11,16 @@ Cool features include
 
 # My Android Basics Curriculum
 
-* [General programming practices](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#general-programming-practices)
-* [Introduction to Android basics](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#introduction-to-android-basics)
-* [Mastering layouts in Android](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#mastering-layouts-in-android)
-* [Build System - Working with Gradle](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#build-systemworking-with-gradle)
-* [Networking In Android](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#networking-in-android)
-* [Architecting your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#architecting-your-android-applications)
-* [Testing your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#testing-your-android-applications)
-* [Releasing your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#releasing-your-android-apps)
-* [Securing your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#security)
-* [Advanced Android](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/androidBasics.md#advanced-android-topics)
+* [General programming practices](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#general-programming-practices)
+* [Introduction to Android basics](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#introduction-to-android-basics)
+* [Mastering layouts in Android](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#mastering-layouts-in-android)
+* [Build System - Working with Gradle](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#build-systemworking-with-gradle)
+* [Networking In Android](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#networking-in-android)
+* [Architecting your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#architecting-your-android-applications)
+* [Testing your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#testing-your-android-applications)
+* [Releasing your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#releasing-your-android-apps)
+* [Securing your Android apps](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#security)
+* [Advanced Android](https://github.com/kelvinkamau/GDGKisiiApp/blob/master/README.md#advanced-android-topics)
 
 ## General Programming Practices
 The following general programming practices are key to getting started with your successful career in development. These practices include:
