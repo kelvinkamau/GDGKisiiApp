@@ -1,4 +1,6 @@
 # GDGKisiiApp
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkelvinkamau%2FGDGKisiiApp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkelvinkamau%2FGDGKisiiApp?ref=badge_shield)
+
 Home repository of GDG Kisii Android Mobile App. 
 
 We created an android application to manage our developer community.
@@ -114,3 +116,7 @@ Once you have covered all the basics of writing Android applications, there are 
 * [Material Design](https://material.io/) — Most Android Apps follow Google’s Material Design Guidelines. The guidelines are a way of designing your apps in a standard way which users are accustomed to.
 * [Support Libraries in Android](https://developer.android.com/topic/libraries/support-library/index.html) — The support libraries in Android are very important to ensure that your app looks and behaves consistently across multiple versions of Android. There are a few different libraries that have different purposes. The linked article describes the reasoning behind the libraries.
 * Memory Leaks — In Android, it is quite easy to create memory leaks. This can lead to erroneous behaviour in your application (random crashes). A lot of developers use [LeakCanary](https://github.com/square/leakcanary) within their apps to ensure that there aren’t any memory leaks present.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkelvinkamau%2FGDGKisiiApp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkelvinkamau%2FGDGKisiiApp?ref=badge_large)
